@@ -1,2 +1,2 @@
 # mns.mu-commons
-Publi repository for logo and web components
+Public repository for logo and web components
